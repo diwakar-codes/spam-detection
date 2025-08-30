@@ -36,7 +36,6 @@ The workflow includes preprocessing, feature extraction with **TF-IDF**, trainin
 
 ## 🧪 Example Usage  
 
-```python
 msg = ["Congratulations! You've won a free lottery ticket."]
 
 # Model output
